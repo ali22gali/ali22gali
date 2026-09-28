@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Ali Ahmed
 
-🎯 **Software Developer | Data Analyst | PHP & Flutter Enthusiast**  
+🎯 **Software Developer | Data Analyst **  
 📍 Lahore, Pakistan  
 📚 Lifelong Learner | 📖 Book Reader | ✍️ Storytelling Lover  
 
@@ -41,38 +41,21 @@ I'm a passionate software engineer with 5+ years of experience in IT, support, a
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white)
 
----
-
-## 🧑‍💼 Experience
-
-### 💼 PITB — IT Assistant / Software Support  
-*2022 — Present*  
-- Developed & maintained web applications (PHP/MySQL based)  
-- Supported field teams across Punjab for land & lease management projects  
-- Trained staff & managed system deployments
-
-### 💼 Freelance Projects  
-*2019 — Present*  
-- **Visitor Management System** (Python + MySQL)  
-- **Leave Management System** (PHP + Bootstrap)  
-- **Cricket Score Counter App** (Flutter)  
-- **E-Filing System**, **PDF Scanner App**, and more...
 
 ---
 
 ## 🎓 Education
 
 🎓 **BS Software Engineering**  
-*University Name (Add here)*  
-*2014 — 2018*
+*University of Gukrat*  
+*2012 — 2016*
 
 ---
 
 ## 📫 Connect With Me
 
 - 🌐 [LinkedIn](https://linkedin.com/in/ali-ahmed)  
-- 📧 Email: ali.ahmed@example.com  
-- 📝 [My Resume](https://github.com/ali-ahmed/resume/blob/main/AliAhmed_Resume.pdf)
+- 📧 Email: ali22gali@gmail.com
 
 ---
 
