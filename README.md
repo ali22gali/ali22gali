@@ -91,7 +91,7 @@ I'm a passionate Data Analyst and Software Engineer with 5+ years of experience 
 
 ## 📫 Connect With Me
 
-- 🌐 [LinkedIn](https://linkedin.com/in/ali-ahmed)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ali22gali)  
 - 📧 Email: ali22gali@gmail.com
 - Mobile : +92 313 6760675
 
